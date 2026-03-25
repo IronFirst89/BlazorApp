@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSGWTr8jzfM=",
+  "success": true,
+  "projectFilePath": "/home/ironfirst/Blazor/HelloApp/HelloApp.csproj",
+  "expectedPackageFiles": [
+    "/home/ironfirst/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.4/microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
