@@ -1,0 +1,7 @@
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/HelloApp
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/appsettings.Development.json
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/appsettings.json
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/HelloApp.dll
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/HelloApp.runtimeconfig.json
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/HelloApp.pdb
+/home/ironfirst/Blazor/HelloApp/bin/Release/net10.0/publish/HelloApp.deps.json
